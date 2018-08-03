@@ -20,7 +20,3 @@ quality.
   - Final Plots and Summary
   - Reflection References
 
-### Note
-
-Inferential Statistics and machine learning has not been applied here
-and the inclusion of the same will be the forthcoming task.
